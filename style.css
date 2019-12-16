@@ -1,0 +1,42 @@
+body{
+  background: url(https://i.ytimg.com/vi/jtAm-kgoZ_E/maxresdefault.jpg );
+  background-size: 2000px;
+}
+
+h1{
+  text-align: center;
+  color: white;
+}
+
+h2{
+  text-align: center;
+  color: white;
+}
+
+img.center{
+  display: block;
+  margin: 0 auto;
+}
+
+h3{
+  color: red;
+  text-decoration-style: double;
+ }
+
+ p{
+   color: white;
+   font-weight: bold;
+ }
+
+ img.right{
+   width: 50%;
+ }
+
+ img.left{
+   width: 50%;
+ }
+
+ ul{
+   font-size: 0.5cm;
+   color: white;
+ }
