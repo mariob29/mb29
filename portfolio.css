@@ -1,0 +1,25 @@
+/*select tag{
+  property: value;
+}*/
+
+h1{
+  text-align: center;
+}
+
+img.center{
+ display: block;
+ margin: 0 auto;
+}
+
+body{
+  background: url(https://i.ytimg.com/vi/jtAm-kgoZ_E/maxresdefault.jpg );
+  background-size: 2000px;
+}
+a{
+  font-size: 25px;
+  color: rgb(49, 173, 211);
+}
+
+h2{
+  color: floralwhite;
+}
